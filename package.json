@@ -1,0 +1,12 @@
+{
+  "name": "encore-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "gosvr": "cd backend && go run ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
